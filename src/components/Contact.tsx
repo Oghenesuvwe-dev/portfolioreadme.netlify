@@ -5,7 +5,7 @@ import { useInView } from 'react-intersection-observer';
 const contactLinks = [
   {
     name: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/oghenesuvwe-omashone',
+    url: 'https://www.linkedin.com/in/oghenesuvwe',
     icon: '/icons/linkedin.svg',
     color: 'hover:bg-blue-600',
   },
