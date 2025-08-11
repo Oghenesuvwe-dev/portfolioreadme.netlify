@@ -1,0 +1,27 @@
+/* Additional app-specific styles */
+.app {
+  text-align: center;
+}
+
+/* Smooth transitions for all elements */
+* {
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+/* Focus styles for accessibility */
+button:focus,
+a:focus {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+}
+
+/* Loading animation */
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.loading {
+  animation: spin 1s linear infinite;
+}
