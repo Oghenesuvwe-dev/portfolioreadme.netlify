@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 
 const Navbar = lazy(() => import('./components/Navbar'));
 const About = lazy(() => import('./components/About'));
+const Experience = lazy(() => import('./components/Experience'));
 const Projects = lazy(() => import('./components/Projects'));
 const Skills = lazy(() => import('./components/Skills'));
 const Certifications = lazy(() => import('./components/Certifications'));
@@ -20,6 +21,7 @@ function App() {
           <main className="pt-16">
             <Hero />
             <About />
+            <Experience />
             <Projects />
             <Skills />
             <Certifications />
