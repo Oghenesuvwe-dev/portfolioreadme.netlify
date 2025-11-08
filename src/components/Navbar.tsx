@@ -23,7 +23,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center gap-3">
             <img 
-              src="/profile.png" 
+              src="/profile.PNG" 
               alt="Oghenesuvwe Omashone" 
               className="w-10 h-10 rounded-full object-cover border-2 border-blue-500"
             />
