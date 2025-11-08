@@ -10,6 +10,12 @@ const contactLinks = [
     color: 'hover:bg-blue-600',
   },
   {
+    name: 'X (Twitter)',
+    url: 'https://x.com/0ghenesuvwe',
+    icon: '/icons/x.svg',
+    color: 'hover:bg-black',
+  },
+  {
     name: 'Email',
     url: 'mailto:Oghenesuvweomashone@proton.me',
     icon: '/icons/proton.svg',
@@ -54,7 +60,7 @@ const Contact = () => {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="max-w-3xl mx-auto"
         >
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {contactLinks.map((link, index) => (
               <motion.a
                 key={link.name}

@@ -1,22 +1,30 @@
 // GitHub API integration for dynamic repo fetching
 const projects = [
   {
-    title: "portfolioreadme.netlify",
-    description: "Responsive portfolio website built with React, TypeScript, and Tailwind CSS showcasing professional experience, certifications, and projects.",
-    technologies: ["React", "TypeScript", "Tailwind CSS", "Vite"],
-    github: "https://github.com/Oghenesuvwe-dev/portfolioreadme.netlify",
-    demo: "https://oghenesuvwe-portfolio.netlify.app",
+    title: "IntelliNemoAgent",
+    description: "Intelligent Infrastructure Co-Pilot powered by NVIDIA NIM and Nemo Retriever for advanced AI-driven infrastructure management.",
+    technologies: ["Python", "NVIDIA NIM", "Nemo Retriever", "AI", "Infrastructure"],
+    github: "https://github.com/Oghenesuvwe-dev/IntelliNemoAgent",
     status: "Active",
-    type: "Portfolio",
-    language: "TypeScript"
+    type: "AI Agent",
+    language: "Python"
   },
   {
-    title: "PacMan-game-with-pygame-and-amazonqdevelopercli",
-    description: "Classic Pac-Man game implementation using Pygame with Amazon Q Developer CLI integration for enhanced development experience.",
-    technologies: ["Python", "Pygame", "Amazon Q Developer CLI", "Game Development"],
-    github: "https://github.com/Oghenesuvwe-dev/PacMan-game-with-pygame-and-amazonqdevelopercli",
-    status: "Complete",
-    type: "Game",
+    title: "Synapse-lead-Agent",
+    description: "Autonomous lead agent that listens for inquiries, uses AI to research companies, enriches data, and creates prioritized records in SuiteCRM.",
+    technologies: ["Python", "AI", "SuiteCRM", "Lead Management", "Automation"],
+    github: "https://github.com/Oghenesuvwe-dev/Synapse-lead-Agent",
+    status: "Active",
+    type: "AI Agent",
+    language: "Python"
+  },
+  {
+    title: "X-FluxAgent",
+    description: "Transform ComfyUI into a Universal AI Vibe Coding Agent — From Code to Productivity Automation.",
+    technologies: ["ComfyUI", "AI", "Automation", "Productivity", "Coding Agent"],
+    github: "https://github.com/Oghenesuvwe-dev/X-FluxAgent",
+    status: "Active",
+    type: "AI Agent",
     language: "Python"
   },
   {
@@ -29,24 +37,6 @@ const projects = [
     language: "CQL"
   },
   {
-    title: "Resume-Kraft",
-    description: "Professional resume builder application with customizable templates and modern design principles for career development.",
-    technologies: ["Resume Builder", "Templates", "Career Tools", "Professional Design"],
-    github: "https://github.com/Oghenesuvwe-dev/Resume-Kraft",
-    status: "Active",
-    type: "Tool",
-    language: "JavaScript"
-  },
-  {
-    title: "Cloud-Architecture-Portfolio",
-    description: "Collection of cloud architecture designs, diagrams, and implementations across AWS, Azure, and Oracle Cloud platforms.",
-    technologies: ["AWS", "Azure", "Oracle Cloud", "Architecture", "Diagrams"],
-    github: "https://github.com/Oghenesuvwe-dev/Cloud-Architecture-Portfolio",
-    status: "Ongoing",
-    type: "Architecture",
-    language: "Documentation"
-  },
-  {
     title: "FinOps-Cost-Optimization",
     description: "FinOps tools and frameworks for cloud cost optimization, financial accountability, and multi-cloud cost management strategies.",
     technologies: ["FinOps", "Cost Optimization", "Python", "Analytics", "Cloud Economics"],
@@ -54,15 +44,6 @@ const projects = [
     status: "In Development",
     type: "FinOps",
     language: "Python"
-  },
-  {
-    title: "Technical-Writing-Portfolio",
-    description: "Comprehensive collection of technical documentation, tutorials, guides, and best practices for cloud technologies and DevOps.",
-    technologies: ["Technical Writing", "Documentation", "Tutorials", "Best Practices"],
-    github: "https://github.com/Oghenesuvwe-dev/Technical-Writing-Portfolio",
-    status: "Active",
-    type: "Documentation",
-    language: "Markdown"
   },
   {
     title: "AWS-Well-Architected-Labs",
