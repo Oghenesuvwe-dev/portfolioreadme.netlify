@@ -18,6 +18,15 @@ const certifications = [
     description: 'Validates foundational knowledge of Oracle Cloud Infrastructure services and core concepts.'
   },
   {
+    name: 'Migration and Modernization on AWS',
+    issuer: 'BESA',
+    date: 'Nov 2024',
+    credentialId: 'oghenesuvweomashone49070',
+    verifyUrl: 'https://besa.techcreator.io/certification/oghenesuvweomashone49070/migration-and-modernization-on-aws-4d13fd',
+    linkedInUrl: 'https://www.linkedin.com/in/oghenesuvwe-omashone/details/certifications/',
+    description: 'Demonstrates expertise in AWS migration strategies, modernization techniques, and cloud transformation best practices.'
+  },
+  {
     name: 'AWS Cloud Essentials',
     issuer: 'AWS Educate',
     date: 'Nov 2024',
@@ -100,7 +109,7 @@ const Certifications = () => {
                         rel="noopener noreferrer"
                         className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 transition-colors inline-flex items-center gap-1 text-sm"
                       >
-                        Verify on Credly
+                        {cert.verifyUrl.includes('credly') ? 'Verify on Credly' : 'Verify Certificate'}
                         <svg
                           className="w-4 h-4"
                           fill="none"
