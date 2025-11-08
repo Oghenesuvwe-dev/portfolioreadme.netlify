@@ -14,6 +14,11 @@ const Hero = () => {
       className="min-h-screen flex items-center justify-center bg-gradient-to-br from-purple-100 via-pink-50 to-indigo-100 dark:from-purple-900 dark:via-indigo-900 dark:to-pink-900 transition-colors duration-300"
     >
       <div className="text-center max-w-4xl mx-auto px-4">
+        <img 
+          src="/profile.png" 
+          alt="Oghenesuvwe Omashone" 
+          className="w-32 h-32 rounded-full mx-auto mb-8 shadow-lg"
+        />
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6">
           Hi, I'm{' '}
           <span className="text-purple-600 dark:text-purple-400">Oghenesuvwe Omashone</span>

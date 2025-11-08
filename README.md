@@ -1,8 +1,10 @@
 # Oghenesuvwe Omashone
 
+![Profile Picture](public/profile.png)
+
 **Cloud Architect | FinOps Strategist | Technical Writer | Full-Stack Engineer**
 
-Welcome to my professional portfolio - a showcase of my expertise in cloud architecture, financial operations optimization, and full-stack development.
+Welcome to my professional portfolio, a showcase of my expertise in cloud architecture, financial operations optimization, and full-stack development.
 
 ## 🌐 Live Portfolio
 
