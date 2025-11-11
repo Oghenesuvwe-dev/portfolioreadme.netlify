@@ -12,7 +12,7 @@ Welcome to my professional portfolio, a showcase of my expertise in cloud archit
 
 ## 👨‍💻 About Me
 
-I'm a versatile technology professional based in Lagos, Nigeria, specializing in:
+I'm a versatile technology professional based in Nigeria, specializing in:
 
 - **Cloud Architecture**: Designing scalable, secure, and cost-efficient solutions across AWS, Azure, and Oracle Cloud
 - **FinOps Strategy**: Optimizing cloud spending and implementing financial governance frameworks
