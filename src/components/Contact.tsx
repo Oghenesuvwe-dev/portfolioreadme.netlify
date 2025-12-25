@@ -1,6 +1,6 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
+import BookingButton from './BookingButton';
 
 const contactLinks = [
   {
@@ -85,6 +85,19 @@ const Contact = () => {
               </motion.a>
             ))}
           </div>
+
+          {/* Booking Button Section */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={inView ? { opacity: 1, y: 0 } : {}}
+            transition={{ duration: 0.8, delay: 0.8 }}
+            className="mt-12 text-center"
+          >
+            <p className="text-gray-600 dark:text-gray-300 mb-4">
+              Want to schedule a call? Book a time that works for you!
+            </p>
+            <BookingButton />
+          </motion.div>
         </motion.div>
       </div>
     </section>
