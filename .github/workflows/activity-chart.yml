@@ -1,0 +1,37 @@
+name: Profile Activity Chart
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate Chart
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          USER=$(echo ${{ github.repository }} | cut -d'/' -f1)
+          
+          curl -s -H "Authorization: token $GH_TOKEN" \
+            "https://api.github.com/users/$USER/events/public?per_page=100" | \
+            jq -r '.[].created_at' | cut -d'T' -f1 | sort | uniq -c | \
+            awk '{printf "%s,%s\n", $2, $1}' > activity.csv
+          
+          LABELS=$(awk -F',' '{print $1}' activity.csv | tail -30 | paste -sd'|')
+          DATA=$(awk -F',' '{print $2}' activity.csv | tail -30 | paste -sd',')
+          
+          curl -o public/activity-chart.svg "https://quickchart.io/chart?w=800&h=200&c={type:'bar',data:{labels:['${LABELS//|/\',\'}'],datasets:[{label:'Events',data:[${DATA}],backgroundColor:'rgba(54,162,235,0.5)',borderColor:'rgb(54,162,235)',borderWidth:1}]},options:{scales:{y:{beginAtZero:true}}}}"
+      
+      - name: Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add public/activity-chart.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update activity chart" && git push)
