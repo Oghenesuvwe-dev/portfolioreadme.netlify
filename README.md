@@ -2,6 +2,10 @@
 
 ![Profile Picture](public/profile.png)
 
+## 📈 GitHub Activity
+
+![Activity Chart](public/activity-chart.svg)
+
 **Cloud Architect | FinOps Strategist | Technical Writer | Full-Stack Engineer**
 
 Welcome to my professional portfolio, a showcase of my expertise in cloud architecture, financial operations optimization, and full-stack development.
