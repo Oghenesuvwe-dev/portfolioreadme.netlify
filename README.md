@@ -2,9 +2,13 @@
 
 ![Profile Picture](public/profile.png)
 
-## GitHub Activity
+## GitHub Stats
 
-![Activity Chart](public/activity-chart.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oghenesuvwe-dev&show_icons=true&theme=dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oghenesuvwe-dev&theme=github-dark)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Oghenesuvwe-dev&theme=dark)
 
 **Cloud Architect | FinOps Strategist | Technical Writer | Full-Stack Engineer**
 
