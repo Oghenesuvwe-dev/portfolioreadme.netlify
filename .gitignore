@@ -25,3 +25,7 @@ Thumbs.db
 
 # Deployment
 .netlify/
+
+# Markdown files (except README)
+*.md
+!README.md

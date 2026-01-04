@@ -3,7 +3,7 @@
 **Cloud Architect | FinOps Strategist | Technical Writer | Full-Stack Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oghenesuvwe-omashone)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolioreadme.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://oghenesuvwe.netlify.app)
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Oghenesuvweomashone@proton.me)
 
 ## GitHub Activity
@@ -17,7 +17,7 @@
 Welcome to my professional portfolio, a showcase of my expertise in cloud architecture, financial operations optimization, and full-stack development.
 
 ## Live Portfolio
-**[View Portfolio →](github.com/Oghenesuvwe-dev/Oghenesuvwe-dev)** 
+**[View Portfolio →](https://oghenesuvwe.netlify.app)** 
 
 ## 👨‍💻 About Me
 I'm a versatile technology professional based in Nigeria, specializing in:
@@ -73,7 +73,7 @@ I'm a versatile technology professional based in Nigeria, specializing in:
 - **LinkedIn**: [oghenesuvwe-omashone](https://www.linkedin.com/in/oghenesuvwe-omashone)
 - **Email**: [Oghenesuvweomashone@proton.me](mailto:Oghenesuvweomashone@proton.me)
 - **Credly**: [View Certifications](https://www.credly.com/users/oghenesuvwe-dev)
-- **Portfolio**: [portfolioreadme.netlify.app](https://portfolioreadme.netlify.app)
+- **Portfolio**: [oghenesuvwe.netlify.app](https://oghenesuvwe.netlify.app)
 
 ---
 
