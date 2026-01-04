@@ -2,11 +2,11 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oghenesuvwe-dev&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oghenesuvwe-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/Oghenesuvwe-dev)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oghenesuvwe-dev&theme=github-dark)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oghenesuvwe-dev&theme=github-dark&hide_border=true&bg_color=0d1117)](https://github.com/Oghenesuvwe-dev)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Oghenesuvwe-dev&theme=dark)
+[![Streak Stats](https://streak-stats.demolab.com?user=Oghenesuvwe-dev&theme=dark&hide_border=true&background=0d1117)](https://github.com/Oghenesuvwe-dev)
 
 **Cloud Architect | FinOps Strategist | Technical Writer | Full-Stack Engineer**
 
