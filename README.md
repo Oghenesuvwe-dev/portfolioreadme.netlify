@@ -1,7 +1,5 @@
 # Oghenesuvwe Omashone
 
-![Profile Picture](public/profile.png)
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oghenesuvwe-dev&show_icons=true&theme=dark)
