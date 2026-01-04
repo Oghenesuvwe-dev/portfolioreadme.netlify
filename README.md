@@ -1,6 +1,6 @@
 # Oghenesuvwe Omashone
 
-**Cloud Architect | FinOps Strategist | Technical Writer | Full-Stack Engineer**
+## **Technoprenuer/Advocate | Full-Stack Engineer | Cloud Architect | FinOps Strategist | Technical Writer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oghenesuvwe-omashone)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://oghenesuvwe.netlify.app)
