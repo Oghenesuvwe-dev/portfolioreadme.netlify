@@ -2,7 +2,7 @@
 
 ![Profile Picture](public/profile.png)
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 ![Activity Chart](public/activity-chart.svg)
 
@@ -10,9 +10,9 @@
 
 Welcome to my professional portfolio, a showcase of my expertise in cloud architecture, financial operations optimization, and full-stack development.
 
-## 🌐 Live Portfolio
+## Live Portfolio
 
-**[View Portfolio →](https://portfolioreadme.netlify.app)**
+**[View Portfolio →](github.com/Oghenesuvwe-dev/Oghenesuvwe-dev)** 
 
 ## 👨‍💻 About Me
 
@@ -23,14 +23,14 @@ I'm a versatile technology professional based in Nigeria, specializing in:
 - **Technical Writing**: Creating comprehensive documentation, tutorials, and technical content
 - **Full-Stack Development**: Building robust applications with Python, C#, and modern web technologies
 
-## 🏆 Key Achievements
+## Achievements
 
 - **FinOps Certified Practitioner (FOCP)** - Financial operations expertise
 - **Oracle Cloud Infrastructure 2025 Certified** - Latest cloud infrastructure knowledge
 - **Microsoft Guinness World Record Holder** - AI learning achievement
 - **AWS Well-Architected Proficient** - Cloud architecture best practices
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
 **Cloud Platforms**: AWS, Microsoft Azure, Oracle Cloud Infrastructure  
 **Programming**: Python, C#, .NET, JavaScript, TypeScript  
@@ -38,7 +38,7 @@ I'm a versatile technology professional based in Nigeria, specializing in:
 **Analytics**: Power BI, SQL, Excel Dashboards, Google Sheets  
 **DevOps**: GitHub Actions, Azure DevOps, CI/CD Pipelines  
 
-## 📊 FinOps & Analytics Tools
+## FinOps & Analytics Tools
 
 - Power BI for cloud cost visualization
 - Google Sheets for financial modeling
@@ -46,13 +46,12 @@ I'm a versatile technology professional based in Nigeria, specializing in:
 - SQL for data analysis and optimization
 - Custom Python scripts for cost automation
 
-## 📞 Let's Connect
-
-- **Email**: [Oghenesuvweomashone@proton.me](mailto:Oghenesuvweomashone@proton.me)
+## Let's Connect
 - **LinkedIn**: [oghenesuvwe-omashone](https://www.linkedin.com/in/oghenesuvwe-omashone)
+- **Email**: [Oghenesuvweomashone@proton.me](mailto:Oghenesuvweomashone@proton.me)
 - **Credly**: [View Certifications](https://www.credly.com/users/oghenesuvwe-dev)
 - **Portfolio**: [portfolioreadme.netlify.app](https://portfolioreadme.netlify.app)
 
 ---
 
-*Transforming businesses through strategic cloud architecture and financial optimization.*
+*Transforming businesses with Full-Stack dev and strategic cloud architecture and financial optimization.*
