@@ -52,11 +52,10 @@ I'm a versatile technology professional based in Nigeria, specializing in:
 - **Oracle Cloud Infrastructure 2025 Certified** - Latest cloud infrastructure knowledge
 - **Microsoft Guinness World Record Holder** - AI learning achievement
 - **AWS Well-Architected Proficient** - Cloud architecture best practices
----
+- 
 ### **Cloud Platforms** - Azure | AWS | OCI | GCP
 
 ## **Technical Expertise** - Full-Stack Dev | Cloud Engineer
----
 
 ## FinOps & Analytics Tools
 - Power BI for cloud cost visualization
@@ -64,7 +63,6 @@ I'm a versatile technology professional based in Nigeria, specializing in:
 - Excel dashboards for executive reporting
 - SQL for data analysis and optimization
 - Custom Python scripts for cost automation
----
 
 ## Let's Connect
 - **LinkedIn**: [oghenesuvwe-omashone](https://www.linkedin.com/in/oghenesuvwe-omashone)
