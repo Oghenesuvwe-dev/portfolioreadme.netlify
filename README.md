@@ -1,14 +1,18 @@
 # Oghenesuvwe Omashone
 
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oghenesuvwe-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/Oghenesuvwe-dev)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oghenesuvwe-dev&theme=github-dark&hide_border=true&bg_color=0d1117)](https://github.com/Oghenesuvwe-dev)
-
-[![Streak Stats](https://streak-stats.demolab.com?user=Oghenesuvwe-dev&theme=dark&hide_border=true&background=0d1117)](https://github.com/Oghenesuvwe-dev)
-
 **Cloud Architect | FinOps Strategist | Technical Writer | Full-Stack Engineer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oghenesuvwe-omashone)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolioreadme.netlify.app)
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:Oghenesuvweomashone@proton.me)
+
+## GitHub Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oghenesuvwe-dev&theme=github-dark&hide_border=true&bg_color=0d1117)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Oghenesuvwe-dev&color=blue&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Oghenesuvwe-dev?style=social)
+![Stars](https://img.shields.io/github/stars/Oghenesuvwe-dev?style=social)
 
 Welcome to my professional portfolio, a showcase of my expertise in cloud architecture, financial operations optimization, and full-stack development.
 
