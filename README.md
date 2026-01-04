@@ -17,11 +17,9 @@
 Welcome to my professional portfolio, a showcase of my expertise in cloud architecture, financial operations optimization, and full-stack development.
 
 ## Live Portfolio
-
 **[View Portfolio →](github.com/Oghenesuvwe-dev/Oghenesuvwe-dev)** 
 
 ## 👨‍💻 About Me
-
 I'm a versatile technology professional based in Nigeria, specializing in:
 
 - **Cloud Architecture**: Designing scalable, secure, and cost-efficient solutions across AWS, Azure, and Oracle Cloud
@@ -30,22 +28,41 @@ I'm a versatile technology professional based in Nigeria, specializing in:
 - **Full-Stack Development**: Building robust applications with Python, C#, and modern web technologies
 
 ## Achievements
-
 - **FinOps Certified Practitioner (FOCP)** - Financial operations expertise
 - **Oracle Cloud Infrastructure 2025 Certified** - Latest cloud infrastructure knowledge
 - **Microsoft Guinness World Record Holder** - AI learning achievement
 - **AWS Well-Architected Proficient** - Cloud architecture best practices
 
 ## Technical Expertise
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-**Cloud Platforms**: AWS, Microsoft Azure, Oracle Cloud Infrastructure  
-**Programming**: Python, C#, .NET, JavaScript, TypeScript  
-**Infrastructure**: Terraform, Docker, Kubernetes, Helm  
-**Analytics**: Power BI, SQL, Excel Dashboards, Google Sheets  
-**DevOps**: GitHub Actions, Azure DevOps, CI/CD Pipelines  
+### Programming & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### AI & ML
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
 
 ## FinOps & Analytics Tools
-
 - Power BI for cloud cost visualization
 - Google Sheets for financial modeling
 - Excel dashboards for executive reporting
@@ -60,4 +77,4 @@ I'm a versatile technology professional based in Nigeria, specializing in:
 
 ---
 
-*Transforming businesses with Full-Stack dev and strategic cloud architecture and financial optimization.*
+## *Transforming businesses with Full-Stack dev and strategic cloud architecture and financial optimization.*
